@@ -17,3 +17,8 @@ We visualize and report,
 Our findings to the world, we transport, 
 With version control, we can trust, 
 Our data and results, they do not rust. 
+
+Version control for data analytics, 
+Ensures accruacy and reproducibilty, 
+With every change tracked and noted,
+Our insights remain reliable and quotable. 
