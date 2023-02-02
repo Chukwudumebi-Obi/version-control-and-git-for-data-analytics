@@ -5,7 +5,7 @@ Of every range, no turning back.
 
 We test and debug, we iterate, 
 To find the truth, we never hestitate , 
-With version control, we can see,
+With version control, we can all see,
 The changes made and they agree. 
 
 In the world of data analytics,
